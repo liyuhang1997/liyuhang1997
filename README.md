@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![liyuhang1997's github stats](https://github-readme-stats.vercel.app/api?username=liyuhang1997&theme=dark&show_icons=true)
+<!-- ![liyuhang1997's github stats](https://github-readme-stats.vercel.app/api?username=liyuhang1997&theme=dark&show_icons=true) -->
+![liyuhang1997's github stats](https://github-readme-stats.vercel.app/api?username=liyuhang1997&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,0ff1ce,904e95&hide_border=true&locale=en&show_icons=true)
 
 <!--
 
