@@ -107,3 +107,6 @@ Cloud Servers: [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-black?
 ## Made by
 
 [![Simple Icons](https://img.shields.io/badge/Simple%20Icons-black?style=for-the-badge&logo=simpleicons)](https://simpleicons.org/)
+
+[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
