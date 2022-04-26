@@ -48,7 +48,7 @@ Mouse: [![Razer](https://img.shields.io/badge/Razer%20Viper%20Mini%20%28One%20Pi
 
 [![Chrome](https://img.shields.io/badge/Chrome%20100.0-black?style=for-the-badge&logo=googlechrome)](https://www.google.com/chrome/) with [![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-black?style=for-the-badge&logo=ublockorigin)](https://github.com/gorhill/uBlock)
 
-[![VSCODE](https://img.shields.io/badge/VS%20Code%201.66.2-black?style=for-the-badge&logo=visualstudiocode)](https://www.zhihu.com/people/rainhang)
+[![VSCODE](https://img.shields.io/badge/VS%20Code%201.66.2-black?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
 
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)](https://www.kernel.org/) [![Ubuntu](https://img.shields.io/badge/Ubuntu%2022.04%20LTS-black?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/blog/ubuntu-22-04-lts-released)
 
