@@ -48,19 +48,19 @@ Mouse: [![Razer](https://img.shields.io/badge/Razer%20Viper%20Mini%20%28One%20Pi
 
 [![Chrome](https://img.shields.io/badge/Chrome%20100.0-black?style=for-the-badge&logo=googlechrome)](https://www.google.com/chrome/) with [![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-black?style=for-the-badge&logo=ublockorigin)](https://github.com/gorhill/uBlock)
 
-[![VSCODE](https://img.shields.io/badge/VS%20Code%201.66.2-black?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
+<!-- [![VSCODE](https://img.shields.io/badge/VS%20Code%201.66.2-black?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/) -->
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)](https://www.kernel.org/) [![Ubuntu](https://img.shields.io/badge/Ubuntu%2022.04%20LTS-black?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/blog/ubuntu-22-04-lts-released)
 
 ## Current use services
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)](https://github.com/features/actions) [![Snyk](https://img.shields.io/badge/Snyk-black?style=for-the-badge&logo=snyk)](https://snyk.io/) [![SemVer](https://img.shields.io/badge/SemVer-black?style=for-the-badge&logo=semver)](https://semver.org/)
+![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)](https://github.com/features/actions) [![Snyk](https://img.shields.io/badge/Snyk-black?style=for-the-badge&logo=snyk)](https://snyk.io/) [![SemVer](https://img.shields.io/badge/SemVer-black?style=for-the-badge&logo=semver)](https://semver.org/)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/) -->
 
 [![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen)](https://codepen.io/)
 
 Cloud Servers: [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-black?style=for-the-badge&logo=digitalocean)](https://www.digitalocean.com/) [![Linode](https://img.shields.io/badge/Linode-black?style=for-the-badge&logo=linode)](https://www.linode.com/) [![Vultr](https://img.shields.io/badge/Vultr-black?style=for-the-badge&logo=vultr)](https://www.vultr.com/)
-
-[![Prettier](https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier)](https://prettier.io/)
 
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-black?style=for-the-badge&logo=windowsterminal)](https://github.com/microsoft/terminal) [![PowerShell](https://img.shields.io/badge/PowerShell%207-black?style=for-the-badge&logo=powerShell)](https://github.com/PowerShell/PowerShell) [![Zapier](https://img.shields.io/badge/Zapier-black?style=for-the-badge&logo=zapier)](https://zapier.com/)
 
@@ -68,17 +68,24 @@ Cloud Servers: [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-black?
 
 ## Technology Stack
 
-[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5) [![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS3) [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
-
-[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
-
-[![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://en.wikipedia.org/wiki/HTML5) [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://en.wikipedia.org/wiki/CSS3) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/-React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/-Vue.js%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)
+<!-- [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5) -->
+<!-- [![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS3)  -->
+<!-- [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript) -->
+<!-- [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://reactjs.org/) -->
+<!-- [![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js)](https://vuejs.org/) -->
 
 [![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
 
 [![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json)](https://en.wikipedia.org/wiki/Markdown)
 
-## interested in
+## Code Style
+
+![ESlint](https://img.shields.io/badge/-ESlint-4B32C3?style=flat-square&logo=eslint)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+<!-- [![Prettier](https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier)](https://prettier.io/) -->
+
+## Interested in / Learning
 
 [![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron)](https://www.electronjs.org/)
 
@@ -94,7 +101,8 @@ Cloud Servers: [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-black?
 
 [![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-black?style=for-the-badge&logo=letsencrypt)](https://letsencrypt.org/)
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+<!-- [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/) -->
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 
 [![Apple](https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=apple)](https://www.apple.com/)
 
