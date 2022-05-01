@@ -46,7 +46,7 @@ Mouse: [![Razer](https://img.shields.io/badge/Razer%20Viper%20Mini%20%28One%20Pi
 
 ## Current use software
 
-[![Chrome](https://img.shields.io/badge/Chrome%20100.0-black?style=for-the-badge&logo=googlechrome)](https://www.google.com/chrome/) with [![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-black?style=for-the-badge&logo=ublockorigin)](https://github.com/gorhill/uBlock)
+[![Chrome](https://img.shields.io/badge/Chrome%20101.0-black?style=for-the-badge&logo=googlechrome)](https://www.google.com/chrome/) with [![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-black?style=for-the-badge&logo=ublockorigin)](https://github.com/gorhill/uBlock)
 
 <!-- [![VSCODE](https://img.shields.io/badge/VS%20Code%201.66.2-black?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/) -->
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
