@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## Current use hardware
 
-Laptop: [![XIAOMI](https://img.shields.io/badge/RedmiBook%20Pro%2015-black?style=for-the-badge&logo=xiaomi)](https://www.mi.com/redmibook/pro15) with [![AMD](https://img.shields.io/badge/AMD%20Ryzen™%205%205600H-black?style=for-the-badge&logo=amd)](https://www.amd.com/en/products/apu/amd-ryzen-5-5600h) on [![Windows 11](https://img.shields.io/badge/Windows%2011-black?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows/)
+Laptop: [![XIAOMI](https://img.shields.io/badge/Xiaomi%20RedmiBook%20Pro%2015%20Ryzen%20Edition-black?style=for-the-badge&logo=xiaomi)](https://www.mi.com/redmibook/pro15) with [![AMD](https://img.shields.io/badge/AMD%20Ryzen™%205%205600H-black?style=for-the-badge&logo=amd)](https://www.amd.com/en/products/apu/amd-ryzen-5-5600h) on [![Windows 11](https://img.shields.io/badge/Windows%2011-black?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows/)
 
 Phone: [![XIAOMI](https://img.shields.io/badge/Redmi%20K40-black?style=for-the-badge&logo=xiaomi)](https://www.mi.com/redmik40) with [![Qualcomm](https://img.shields.io/badge/Qualcomm%20Snapdragon%205%20870-black?style=for-the-badge&logo=amd)](https://www.qualcomm.com/products/application/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-870-5g-mobile-platform)
 
