@@ -112,6 +112,8 @@ Cloud Servers: [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-black?
 
 </details>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliyuhang1997%2Fliyuhang1997&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Made by
 
 [![Simple Icons](https://img.shields.io/badge/Simple%20Icons-black?style=for-the-badge&logo=simpleicons)](https://simpleicons.org/)
